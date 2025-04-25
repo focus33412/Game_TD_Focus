@@ -1,7 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 9580f01f041e2314189668a0444acd2c
+=======
+guid: 027a7182c13cebc42a3ab3fe21511ca0
+>>>>>>> Stashed changes
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+<<<<<<< Updated upstream
+=======
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301357
+  packageName: Free Inventory System for 2D Games
+  packageVersion: 1.0.0
+  assetPath: Assets/Inventory System - Kinnly/Prefabs/Tree.prefab
+  uploadId: 705297
+>>>>>>> Stashed changes
